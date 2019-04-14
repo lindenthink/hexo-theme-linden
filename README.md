@@ -1,4 +1,4 @@
-# Antiquity
+# Theme-linden
 
 一个有点古风的Hexo主题，来自一个不会设计不会配色的前端渣渣。
 - [预览](https://yiluyanxia.site)
@@ -7,9 +7,6 @@
 这个主题偏向于古风，并且持续在更新中。
 
 ## 安装
-
-### 安装
-
 ``` bash
 $ cd hexo
 $ git clone https://github.com/lindenthink/hexo-theme-linden.git themes/next
