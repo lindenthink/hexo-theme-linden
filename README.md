@@ -7,7 +7,7 @@
 ## 安装
 ``` bash
 $ cd hexo
-$ git clone https://github.com/lindenthink/hexo-theme-linden.git themes/next
+$ git clone https://github.com/lindenthink/hexo-theme-linden.git themes/linden
 ```
 
 ### 使用
